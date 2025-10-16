@@ -1,0 +1,13 @@
+Hi my name is:
+
+I am majoring in: 
+
+Today's date is:
+
+On a scale from (1-5)
+the level I am enjoying 
+this workshop is: 
+
+I would attend an
+intermediate Git workshop (Y/N): 
+
