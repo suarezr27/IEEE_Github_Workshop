@@ -1,13 +1,14 @@
-Hi my name is:
+Hi my name is: Regina Suarez
 
-I am majoring in: 
+I am majoring in: Industrial Eng.
 
-Today's date is:
+Today's date is:10/16/2025
 
 On a scale from (1-5)
 the level I am enjoying 
-this workshop is: 
+this workshop is: 4
 
 I would attend an
-intermediate Git workshop (Y/N): 
+intermediate Git workshop (Y/N): y
 
+git sts
